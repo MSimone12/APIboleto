@@ -1,0 +1,986 @@
+[
+    {
+      "_id": "59ada9772bc5be4a37aaa435",
+      "name": "Banco ABC Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "246",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa437",
+      "name": "Banco Agiplan S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "121",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa438",
+      "name": "Banco Alfa S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "025",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa436",
+      "name": "Banco ABN AMRO S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "075",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa43c",
+      "name": "Banco BBM S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "107",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa439",
+      "name": "Banco Alvorada S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "641",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa43b",
+      "name": "Banco BANDEPE S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "024",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa43a",
+      "name": "Banco Andbank (Brasil) S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "065",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa43d",
+      "name": "Banco BM&FBOVESPA de Serviços de Liquidação e Custódia S.A",
+      "febraban": true,
+      "clearing": true,
+      "code": "096",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa441",
+      "name": "Banco Bonsucesso S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "218",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa443",
+      "name": "Banco Bradesco BBI S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "036",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa448",
+      "name": "Banco Cacique S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "263",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa44d",
+      "name": "Banco Cetelem S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "739",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa452",
+      "name": "Banco Cooperativo do Brasil S.A. - BANCOOB",
+      "febraban": true,
+      "clearing": true,
+      "code": "756",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa457",
+      "name": "Banco CSF S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa45c",
+      "name": "Banco de Tokyo-Mitsubishi UFJ Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "456",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa461",
+      "name": "Banco do Nordeste do Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "004",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa466",
+      "name": "Banco Ford S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa46b",
+      "name": "Banco INBURSA de Investimentos S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "012",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa470",
+      "name": "Banco Itaú BBA S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "184",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa475",
+      "name": "Banco J. P. Morgan S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "376",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa47a",
+      "name": "Banco Mizuho do Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "370",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa47f",
+      "name": "Banco PAN S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "623",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa484",
+      "name": "Banco RCI Brasil S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa489",
+      "name": "Banco Semear S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "743",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa48e",
+      "name": "Banco Triângulo S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "634",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa493",
+      "name": "Banco Western Union do Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "119",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa498",
+      "name": "BBN Banco Brasileiro de Negócios S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "081",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa49d",
+      "name": "BRB - Banco de Brasília S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "070",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4a2",
+      "name": "Goldman Sachs do Brasil Banco Múltiplo S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "064",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4a7",
+      "name": "Itaú Unibanco S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "341",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4ac",
+      "name": "Scania Banco S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa442",
+      "name": "Banco Bradescard S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "063",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa447",
+      "name": "Banco BTG Pactual S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "208",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa44c",
+      "name": "Banco CBSS S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa451",
+      "name": "Banco Confidence de Câmbio S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "095",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa456",
+      "name": "Banco Crefisa S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "069",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa45b",
+      "name": "Banco de Lage Landen Brasil S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa460",
+      "name": "Banco do Estado do Rio Grande do Sul S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "041",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa465",
+      "name": "Banco Finaxis S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "094",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa46a",
+      "name": "Banco IBM S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa46f",
+      "name": "Banco Investcred Unibanco S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "249",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa474",
+      "name": "Banco Itaucard S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa479",
+      "name": "Banco Mercantil do Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "389",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa47e",
+      "name": "Banco Original S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "212",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa483",
+      "name": "Banco Rabobank International Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "747",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa488",
+      "name": "Banco Santander  (Brasil)  S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "033",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa48d",
+      "name": "Banco Toyota do Brasil S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa492",
+      "name": "Banco VR S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "610",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa497",
+      "name": "Bank of America Merrill Lynch Banco Múltiplo S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "755",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa49c",
+      "name": "Brasil Plural S.A. - Banco Múltiplo",
+      "febraban": true,
+      "clearing": true,
+      "code": "125",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4a1",
+      "name": "Deutsche Bank S.A. - Banco Alemão",
+      "febraban": true,
+      "clearing": true,
+      "code": "487",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4a6",
+      "name": "Itaú Unibanco Holding S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "652",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4ab",
+      "name": "Paraná Banco S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "254",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa43f",
+      "name": "Banco BNP Paribas Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "752",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa444",
+      "name": "Banco Bradesco Cartões S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "204",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa449",
+      "name": "Banco Caixa Geral - Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "473",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa440",
+      "name": "Banco Boavista Interatlântico S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "248",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa43e",
+      "name": "Banco BMG S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "318",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa445",
+      "name": "Banco Bradesco Financiamentos S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "394",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa446",
+      "name": "Banco Bradesco S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "237",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa44a",
+      "name": "Banco Cargill S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "040",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa44b",
+      "name": "Banco Caterpillar S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa44f",
+      "name": "Banco Citibank S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "745",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa44e",
+      "name": "Banco Cifra S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "233",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa450",
+      "name": "Banco CNH Industrial Capital S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa454",
+      "name": "Banco Credit Agricole Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "222",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa453",
+      "name": "Banco Cooperativo Sicredi S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "748",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa455",
+      "name": "Banco Credit Suisse (Brasil) S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "505",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa459",
+      "name": "Banco da China Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "083",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa458",
+      "name": "Banco da Amazônia S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "003",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa45a",
+      "name": "Banco Daycoval S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "707",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa45e",
+      "name": "Banco do Estado de Sergipe S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "047",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa45d",
+      "name": "Banco do Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "001",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa45f",
+      "name": "Banco do Estado do Pará S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "037",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa463",
+      "name": "Banco Fibra S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "224",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa462",
+      "name": "Banco Fator S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "265",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa464",
+      "name": "Banco Fidis S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa468",
+      "name": "Banco Guanabara S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "612",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa467",
+      "name": "Banco GMAC S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa469",
+      "name": "Banco Honda S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa46d",
+      "name": "Banco Indusval S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "653",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa46c",
+      "name": "Banco Industrial do Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "604",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa46e",
+      "name": "Banco Intermedium S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "077",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa472",
+      "name": "Banco Itaú Veículos S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa471",
+      "name": "Banco Itaú Consignado S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "029",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa473",
+      "name": "Banco ItauBank S.A",
+      "febraban": true,
+      "clearing": true,
+      "code": "479",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa477",
+      "name": "Banco John Deere S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "217",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa476",
+      "name": "Banco J. Safra S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "074",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa478",
+      "name": "Banco Luso Brasileiro S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "600",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa47c",
+      "name": "Banco Neon S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "735",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa47b",
+      "name": "Banco Modal S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "746",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa47d",
+      "name": "Banco Olé Bonsucesso Consignado S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "169",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa481",
+      "name": "Banco Pine S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "643",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa480",
+      "name": "Banco Paulista S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "611",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa482",
+      "name": "Banco PSA Finance Brasil S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa486",
+      "name": "Banco Rodobens S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "120",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa485",
+      "name": "Banco Rendimento S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "633",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa487",
+      "name": "Banco Safra S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "422",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa48b",
+      "name": "Banco Sumitomo Mitsui Brasileiro S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "464",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa48a",
+      "name": "Banco Société Générale Brasil S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "366",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa48c",
+      "name": "Banco Topázio S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "082",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa490",
+      "name": "Banco Volvo Brasil S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa48f",
+      "name": "Banco Volkswagen S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa491",
+      "name": "Banco Votorantim S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "655",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa495",
+      "name": "BANESTES S.A. Banco do Estado do Espírito Santo",
+      "febraban": true,
+      "clearing": true,
+      "code": "021",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa494",
+      "name": "Banco Yamaha Motor do Brasil S.A.",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa496",
+      "name": "Banif-Banco Internacional do Funchal (Brasil)S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "719",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa49a",
+      "name": "BEXS Banco de Câmbio S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "144",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa499",
+      "name": "BCV - Banco de Crédito e Varejo S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "250",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa49b",
+      "name": "BNY Mellon Banco S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "017",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa49f",
+      "name": "China Construction Bank (Brasil) Banco Múltiplo S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "320",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4a0",
+      "name": "Citibank N.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "477",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4a4",
+      "name": "HSBC Brasil S.A. - Banco de Investimento",
+      "febraban": true,
+      "clearing": false,
+      "code": null,
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4a3",
+      "name": "Hipercard Banco Múltiplo S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "062",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4a5",
+      "name": "ING Bank N.V.",
+      "febraban": true,
+      "clearing": true,
+      "code": "492",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4a9",
+      "name": "Kirton Bank S.A. - Banco Múltiplo",
+      "febraban": true,
+      "clearing": true,
+      "code": "399",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4a8",
+      "name": "JPMorgan Chase Bank, National Association",
+      "febraban": true,
+      "clearing": true,
+      "code": "488",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4aa",
+      "name": "MS Bank S.A. Banco de Câmbio",
+      "febraban": true,
+      "clearing": true,
+      "code": "128",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4ae",
+      "name": "Standard Chartered Bank (Brasil) S/A–Bco Invest.",
+      "febraban": true,
+      "clearing": true,
+      "code": "118",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4ad",
+      "name": "Scotiabank Brasil S.A. Banco Múltiplo",
+      "febraban": true,
+      "clearing": true,
+      "code": "751",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa4af",
+      "name": "UBS Brasil Banco de Investimento S.A.",
+      "febraban": true,
+      "clearing": true,
+      "code": "129",
+      "alias": null
+    },
+    {
+      "_id": "59ada9772bc5be4a37aaa49e",
+      "name": "Caixa Econômica Federal",
+      "febraban": true,
+      "clearing": true,
+      "code": "104",
+      "alias": "CEF - Caixa"
+    }
+  ]

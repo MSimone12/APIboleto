@@ -1,0 +1,14 @@
+{
+  "name": "boleto",
+  "version": "1.0.0",
+  "description": "Teste Ewally",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Matheus Simone",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

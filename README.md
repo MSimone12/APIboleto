@@ -8,10 +8,14 @@ usando o POSTMAN é só fazer um request com o metódo POST para a url : localho
 com o body tendo o campo boleto,
 assim, a aplicação retornará um json com: 
 {
-    "instituição": ...,
-    "valor": ...,
-    "vencimento": ...,
-    "cod": ..., // sendo esse o código de barras
+    sucesso: true/false,
+    data: {
+        "instituição": ...,
+        "valor": ...,
+        "vencimento": ...,
+        "cod": ..., // sendo esse o código de barras
+    }
 }
+
 
 feito isso, estamos prontos!
